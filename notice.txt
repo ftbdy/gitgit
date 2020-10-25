@@ -11,3 +11,16 @@
 11.封装组件数据 Home 获取组件数据 created生命周期
 12.轮播图封装
 13.推荐信息展示
+
+14.本周推荐封装图片FeatureView
+15.tabControll组件封装
+16.商品列表数据拉取 设计数据模型
+17.封装商品数据接口 可复用设计
+18.商品列表封装
+19.better-scroll引入
+20.上拉加载更多 用better-scroll实现
+21.封装滚动组件 slot实现
+22.确定滚动高度
+22.封装backtop组件 组件原生事件监听 .native
+23.通过refs取到scroll组件 滚动到最顶端
+24.backtop组件监听scroll组件自定义事件
