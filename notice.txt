@@ -1,0 +1,13 @@
+1.创建github仓库 提交新创建的代码
+2.删除没用的内容
+3.创建目录结构 assets/components(common/content)/router/store/network/common(公共的js文件)/views
+4.css引入(初始化css) normalize.css base.css(自己的一些css)
+5.配置文件夹别名 vue.config.js editconfig
+6.tabbar引入 引入图片
+7.引入路由
+8.项目图标修改
+9.导航条封装 navbar
+10.网络模块封装 安装axios
+11.封装组件数据 Home 获取组件数据 created生命周期
+12.轮播图封装
+13.推荐信息展示
